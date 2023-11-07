@@ -1,0 +1,66 @@
+header{
+  background-color: #87509c;
+}
+.hero h1{
+  font-size: 25px;
+}
+.hero{
+padding: 50px;
+}
+#service{
+  background-color: #17c2a4;
+}
+#service .box img{
+ height: 150px;
+}
+#TEAM{
+  background-color: #acd1e9;
+  color: black;
+}
+#SKILLS{
+  background-color: #df9e9e;
+}
+#PORTFOLIO{
+  background-color: #e8bd68;
+}
+#our{
+  background-color: #e8bd68;
+}
+#ABOUT{
+  background-color: #d74680;
+}
+#GET{
+  background-color: #3c5499;
+}
+#foot{
+  background-color: #344b8e;
+}
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 576px) {
+
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+
+}
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+
+}
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  .hero h1{
+  font-size: 45px;
+}
+.hero{
+padding: 100px;
+}
+#service .box img{
+ height: 150px;
+}
+}
+
+
